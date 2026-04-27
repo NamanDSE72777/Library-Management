@@ -12,5 +12,5 @@ books = {"Python Basics": {"total": 3, "available": 3, "duration": 14}, "Data St
                               "Crime and Punishment": {"total": 2, "available": 2, "duration": 7}, "The Brothers Karamazov": {"total": 2, "available": 2, "duration": 7}, "The Count of Monte Cristo": {"total": 2, "available": 2, "duration": 7}, "Les Misérables": {"total": 2, "available": 2, "duration": 7},
                                 "Harry Potter and the Sorcerer's Stone": {"total": 2, "available": 2, "duration": 7}, "Harry Potter and the Chamber of Secrets": {"total": 2, "available": 2, "duration": 7}, "The Alchemist": {"total": 2, "available": 2, "duration": 7},
                                   "The Kite Runner": {"total": 2, "available": 2, "duration": 7}, "The Fault in Our Stars": {"total": 2, "available": 2, "duration": 7}}
-# Issued books list (each entry = one issued copy)
+# Issued books list
 issued_Books = []
